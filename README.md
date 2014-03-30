@@ -11,7 +11,11 @@ Instruction: Can communicate only 2 persons simultaneously, ie acts as a host an
 
 2) Connect to the server (only one client can connect to the server):
 
-a) Enter in the "Your Name" you name b) Enter in the "IP Server" host's address (for example, 192.168.0.111) c) Enter in the "Server Port" host's port d) Choose "Client" in "Connect as" e) Press the "Connect"
+a) Enter in the "Your Name" you name 
+b) Enter in the "IP Server" host's address (for example, 192.168.0.111) 
+c) Enter in the "Server Port" host's port 
+d) Choose "Client" in "Connect as" 
+e) Press the "Connect"
 
 3) Chat =)
 
