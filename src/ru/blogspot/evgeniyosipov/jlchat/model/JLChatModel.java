@@ -1,4 +1,4 @@
-package me.evgeniyosipov.jlchat.model;
+package ru.blogspot.evgeniyosipov.jlchat.model;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -7,7 +7,7 @@ import java.net.Socket;
 
 /**
  *
- * @author Evgeniy Osipov (osipoveg1990@gmail.com, http://evgeniyosipov.me)
+ * @author Evgeniy Osipov (osipoveg1990@gmail.com, http://evgeniyosipov.blogspot.ru/)
  * @version 1.0
  */
 public class JLChatModel {

@@ -1,7 +1,7 @@
-package me.evgeniyosipov.jlchat.controller;
+package ru.blogspot.evgeniyosipov.jlchat.controller;
 
-import me.evgeniyosipov.jlchat.model.JLChatModel;
-import me.evgeniyosipov.jlchat.view.JLChatView;
+import ru.blogspot.evgeniyosipov.jlchat.model.JLChatModel;
+import ru.blogspot.evgeniyosipov.jlchat.view.JLChatView;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -16,7 +16,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Evgeniy Osipov (osipoveg1990@gmail.com, http://evgeniyosipov.me)
+ * @author Evgeniy Osipov (osipoveg1990@gmail.com, http://evgeniyosipov.blogspot.ru/)
  * @version 1.0
  */
 public class JLChatController {

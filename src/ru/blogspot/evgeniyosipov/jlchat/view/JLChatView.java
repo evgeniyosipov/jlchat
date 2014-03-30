@@ -1,7 +1,7 @@
-package me.evgeniyosipov.jlchat.view;
+package ru.blogspot.evgeniyosipov.jlchat.view;
 
-import me.evgeniyosipov.jlchat.controller.JLChatController;
-import me.evgeniyosipov.jlchat.model.JLChatModel;
+import ru.blogspot.evgeniyosipov.jlchat.controller.JLChatController;
+import ru.blogspot.evgeniyosipov.jlchat.model.JLChatModel;
 import java.io.IOException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Evgeniy Osipov (osipoveg1990@gmail.com, http://evgeniyosipov.me)
+ * @author Evgeniy Osipov (osipoveg1990@gmail.com, http://evgeniyosipov.blogspot.ru/)
  * @version 1.0
  */
 public class JLChatView extends javax.swing.JFrame {
@@ -328,7 +328,7 @@ public class JLChatView extends javax.swing.JFrame {
                 null,
                 "JLChat v1.0 \n"
                 + "Evgeniy Osipov, 2013 \n"
-                + "osipoveg1990@gmail.com, http://evgeniyosipov.me \n\n",
+                + "osipoveg1990@gmail.com, http://evgeniyosipov.blogspot.ru \n\n",
                 "About", JOptionPane.PLAIN_MESSAGE,
                 JOptionPane.PLAIN_MESSAGE);
     }//GEN-LAST:event_jMenuItem3ActionPerformed
