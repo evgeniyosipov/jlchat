@@ -1,5 +1,4 @@
-JLChat
-======
+# JLChat
 
 Description: Light java chat with "Nimbus Look and Feel" GUI and MVC pattern.
 
